@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^index$ index.php [L]
+RewriteRule ^cart$ cart.php [L]
+RewriteRule ^checkout$ checkout.php [L]
+RewriteRule ^order_confirmation$ order_confirmation.php [L]
